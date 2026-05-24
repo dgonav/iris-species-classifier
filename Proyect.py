@@ -67,7 +67,7 @@ st.markdown("""
 </p>
 <p style='text-align:center; color:grey; font-size:0.85rem;'>
     <b>Group:</b> Diego Navarro Gómez &nbsp;|&nbsp; Juan Félix &nbsp;|&nbsp;
-    Dinelis García &nbsp;|&nbsp; Kimberly Ochoa
+    Dinellys García &nbsp;|&nbsp; Kimberly Ochoa
 </p>
 <hr>
 """, unsafe_allow_html=True)
