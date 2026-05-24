@@ -14,7 +14,7 @@ https://iris-species-classifier-mmnyjpcbydgyybgeldth7i.streamlit.app/
 
 - Diego Navarro Gómez (Group: 18690)
 - Juan Félix (Group: 18038)
-- Dinelis García (Group: 18038)
+- Dinellys García (Group: 18038)
 - Kimberly Ochoa (Group: 19027)
 
 ## Objective
